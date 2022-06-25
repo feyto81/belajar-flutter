@@ -21,7 +21,10 @@ class MyApp extends StatelessWidget {
                 color: Colors.lightBlue,
                 width: 150,
                 height: 50,
-                child: Text("Hello World"))),
+                child: Text(
+                  "Saya sedang melatih kemampuan flutter saya.",
+                  maxLines: 2,
+                ))),
       ),
     );
   }
