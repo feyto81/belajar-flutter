@@ -24,6 +24,7 @@ class MyApp extends StatelessWidget {
                 child: Text(
                   "Saya sedang melatih kemampuan flutter saya.",
                   maxLines: 2,
+                  overflow: TextOverflow.ellipsis,
                 ))),
       ),
     );
