@@ -26,7 +26,8 @@ class MyApp extends StatelessWidget {
                   style: TextStyle(
                       color: Colors.white,
                       fontStyle: FontStyle.italic,
-                      fontWeight: FontWeight.w700),
+                      fontWeight: FontWeight.w700,
+                      fontSize: 20),
                 ))),
       ),
     );
