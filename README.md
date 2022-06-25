@@ -1,6 +1,7 @@
 # belajar_flutter
 
 My First App For Learn Mobile Apps Development.
+Learn Property Property Widget Text
 
 ## Getting Started
 
