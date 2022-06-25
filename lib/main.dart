@@ -23,9 +23,7 @@ class MyApp extends StatelessWidget {
                 height: 50,
                 child: Text(
                   "Saya sedang melatih kemampuan flutter saya.",
-                  maxLines: 2,
-                  overflow: TextOverflow.clip,
-                  softWrap: false,
+                  textAlign: TextAlign.center ,
                 ))),
       ),
     );
