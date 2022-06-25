@@ -1,6 +1,6 @@
 # belajar_flutter
 
-A new Flutter project.
+My First App For Learn Mobile Apps Development.
 
 ## Getting Started
 
