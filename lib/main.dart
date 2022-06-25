@@ -23,7 +23,8 @@ class MyApp extends StatelessWidget {
                 height: 50,
                 child: Text(
                   "Saya sedang melatih kemampuan flutter saya.",
-                  style: TextStyle(color: Colors.white),
+                  style: TextStyle(
+                      color: Colors.white, fontStyle: FontStyle.italic),
                 ))),
       ),
     );
